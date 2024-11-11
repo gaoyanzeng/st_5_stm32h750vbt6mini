@@ -1,6 +1,21 @@
 # Prerequisites
 *.d
 
+.vscode
+.mxproject
+
+*.scvd
+*.lst
+*.dep
+*.iex
+*.crf
+*.lnp
+*.htm
+*.uvguix.*
+UNSupport/
+DebugConfig/
+RTE/
+
 # Object files
 *.o
 *.ko
